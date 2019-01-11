@@ -1,4 +1,12 @@
   
-  "Guess the Dice Points" is a dice guessing game. The game has a novel style and simple operation. It supports 1-10 dice and can be shaken whenever and wherever you want.
-    
-    contact us: :  lker97@163.com
+  There are 52 cards in total.
+  
+  You need to remember all the cards, including their colors and points.
+  
+  You have plenty of time and opportunities.
+  
+  You can start remembering after 10 seconds.
+  
+  Be as accurate and fast as possible.
+  
+  contact us: :  geluker990@163.com
